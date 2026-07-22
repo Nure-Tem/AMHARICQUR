@@ -1,16 +1,16 @@
-# amharic_qur
+# Amharic Quran Tafsir App
 
-A new Flutter project.
+A Flutter mobile app that displays Quran tafsir (interpretation) content per ayah in Amharic.
 
-## Getting Started
+## Status
+Work in progress — core navigation and content rendering are functional.
+Some ayahs' content/formatting are still being refined.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter / Dart
+- Riverpod (state management)
+- go_router (navigation)
+- sqflite (local database)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download
+app-release.apk (https://github.com/Nure-Tem/AMHARICQUR/releases) 
